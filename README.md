@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently in engineering school<br>🌱 I’m currently learning Symfony
+🔭 I’m currently in engineering school<br>🌱 I’m currently learning Symfony and ReactJs
 
 
 ## 🌐 Socials:
