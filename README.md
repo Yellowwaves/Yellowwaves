@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Cybersecurity<br>
+🔭 A French student learning Cybersecurity in Malaysia<br>🥸 I’m currently learning Burpsuite<br>
 
 
 ## 🌐 Socials:
