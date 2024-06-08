@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 A French student learning Cybersecurity in Malaysia<br>🥸 I’m currently learning Burpsuite<br>
-
+🔭 A French student learning Cybersecurity in Malaysia<br>
+I'm currently working on a continuous security pipeline using Kubernetes and Jenkins
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elouan-teissere) 
