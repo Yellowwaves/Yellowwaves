@@ -44,12 +44,10 @@ Here are some of the technologies and tools I work with:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### Systems and Protocols
+### Systems
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%233E8C8C.svg?style=for-the-badge&logo=kali-linux&logoColor=white) 
-![Wireshark](https://img.shields.io/badge/wireshark-%233E8C8C.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![STM32](https://img.shields.io/badge/stm32-%23000000.svg?style=for-the-badge&logo=stm32&logoColor=white) 
 ![FreeRTOS](https://img.shields.io/badge/freertos-%2300599C.svg?style=for-the-badge&logo=freertos&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 
 ## 📊 Visitor Count
